@@ -1,0 +1,74 @@
+.bannerDoc{
+    width: 100%;
+    height: 10vh;
+    background-image: url("/images/doctorBanner.jpeg");
+    background-position: center;
+    background-size: cover;
+    padding: 5vh 10vw;
+}
+
+.bannerDoc>h2{
+    margin: 0;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.contentDoc{
+    padding: 20vh 5vw;
+}
+.doctor21{
+    background-image: url("images/doctors/doctor21.jpg") ;
+}
+.doctor22{
+    background-image: url("images/doctors/doctor22.jpg") ;
+}
+.doctor23{
+    background-image: url("images/doctors/doctor23.jpg") ;
+}
+.doctor24{
+    background-image: url("images/doctors/doctor24.jpg") ;
+}
+.doctor25{
+    background-image: url("images/doctors/doctor25.jpg") ;
+}
+.doctor26{
+    background-image: url("images/doctors/doctor26.jpg") ;
+}
+.doctor27{
+    background-image: url("images/doctors/doctor27.jpg") ;
+}
+.doctor28{
+    background-image: url("images/doctors/doctor28.jpg") ;
+}
+#aboutContainer{
+    width: 100vw;
+    box-sizing: border-box;
+    min-height: 80vh;
+    padding: 4vh 0;
+    height: auto;
+  }
+
+  
+  .container {
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+  }
+  
+  form input[type="email"] {
+    width: 100%;
+  }  
+
+  #news{
+    margin: 0;
+  }
+  #news>input{
+    width: 40%;
+    display: block;
+  }
+
+  #overview, #history, #courses, #subscribe{margin: 4vh 0}
+
+  p{
+    font-size: large;
+    color: gray;
+  }
